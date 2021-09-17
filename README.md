@@ -6,31 +6,16 @@
 * [Setup](#HOW-TO-RUN)
 * [TroubleShoot](#TROUBLESHOOT)
 
-### NOW THE BOT IS POSSIBLE FOR KUCOIN AND MATIC NETWORK
-
-## IMPORTANT NOTES BEFORE RUNNING THE BOT
-Just edit some part of the bot, you can see the origin at : https://github.com/MrFatoni/p
-
 ## NEW UPDATES
 1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
 
-## NOW LAUNCH ADVANCED BOT
-With more feature and benefit
-### Demo for sonic advanced bot :
-1. drive : https://bit.ly/3vkSum0
-2. SONIC DEGEN SCANNER : https://t.me/degenScanner
-3. website : http://sonicsniperbot.com/
-
-<img src="./assets/advanced.png">
-
-### What's will you get
-To avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Discord : <code>countdown#4008</code> or <code>nafidinara@gmail.com</code> with subject <b>PancakeSwap Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
 
 ## HOW TO RUN
-1. clone this repository
-2. $ npm install
-3. copy your <code>.env.example</code> to <code>.env</code>
-4. set up your <code>.env</code> to with this explanation : 
+1. Open your terminal
+2. clone this repository
+3. $ npm install
+4. copy your <code>.env.example</code> to <code>.env</code>
+5. set up your <code>.env</code> to with this explanation : 
 
 ```
 WBNB_CONTRACT=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
