@@ -1,11 +1,11 @@
 
 # Table of contents
-* [New Update](#NEW-UPDATES)
+* [Feature](#FEATURE)
 * [Setup](#HOW-TO-RUN)
 * [TroubleShoot](#TROUBLESHOOT)
 
-## NEW UPDATES
-1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
+## FEATURE
+1. You can use BNB instead of WBNB. It will make your sniping easier:)
 
 
 ## HOW TO RUN
