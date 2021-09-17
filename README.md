@@ -1,8 +1,6 @@
 
 # Table of contents
-* [Important Notes](#IMPORTANT-NOTES-BEFORE-RUNNING-THE-BOT)
 * [New Update](#NEW-UPDATES)
-* [Advanced Bot](#NOW-LAUNCH-ADVANCED-BOT)
 * [Setup](#HOW-TO-RUN)
 * [TroubleShoot](#TROUBLESHOOT)
 
