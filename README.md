@@ -11,7 +11,7 @@
 
 
 ## HOW TO RUN
-1. Open your terminal
+1. Open your terminal/command prompt
 2. clone this repository
 3. $ npm install
 4. copy your <code>.env.example</code> to <code>.env</code>
