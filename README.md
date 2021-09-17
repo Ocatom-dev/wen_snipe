@@ -12,10 +12,11 @@
 
 ## HOW TO RUN
 1. Open your terminal/command prompt
-2. clone this repository
-3. $ npm install
-4. copy your <code>.env.example</code> to <code>.env</code>
-5. set up your <code>.env</code> to with this explanation : 
+2. clone this repository by typing <code> git clone https://github.com/Ocatom-dev/wen_snipe </code>
+3. Navigate to your wen_snipe folder
+4. Type <code>npm install</code> and wait for it to finish installing
+5. copy your <code>.env.example</code> to <code>.env</code> or simply rename your <code>.env.example</code> file to <code>.env</code>
+6. set up your <code>.env</code> to with this explanation : 
 
 ```
 WBNB_CONTRACT=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
