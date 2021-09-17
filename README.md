@@ -58,13 +58,13 @@ TO_PURCHASE=0xe9e7cea3dedca5984780bafc599bd69add087d56
 
 6. run with <code>npm run snipe </code>.
 
-7. Wait the bot do his job, if success, you will see like this picture. <br>
+7. For a successful transaction you would see a picture like this. <br>
    <img src="./assets/botimg.PNG">
    
 8. Close bot with <code>ctrl + C</code>.
 
 ## WARNING
-All this bot feature are free, I'm never sell this bot, and I'm never share my TG account. Please be careful and DWYOR!. Only this bot is free, not advanced bot.
+Use at your own risk or benefit
 
 ## TROUBLESHOOT
 * some possible reasons for failed tx:
@@ -75,7 +75,7 @@ All this bot feature are free, I'm never sell this bot, and I'm never share my T
 
 * Error with node :
   
- <img src="./assets/wss-error.png"
+ <img src="./assets/wss-error.png">
 
  You can use provided node <code>wss://bsc-ws-node.nariox.org:443</code>  or you can use a private node or build your own node. It's faster than public node.
 Recommended node providers for private node : 
