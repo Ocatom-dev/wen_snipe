@@ -67,20 +67,19 @@ TO_PURCHASE=0xe9e7cea3dedca5984780bafc599bd69add087d56
 All this bot feature are free, I'm never sell this bot, and I'm never share my TG account. Please be careful and DWYOR!. Only this bot is free, not advanced bot.
 
 ## TROUBLESHOOT
-* there are some reason if your tx failed :
-- you haven't approve your WBNB
-- your gas price are to small
-- your GWEI are to small (use 15+ for early token)
-- your slippage are to small (use 30+ for early token)
+* some possible reasons for failed tx:
+- you haven't approved your WBNB
+- your gas price is too small
+- your GWEI is too small (use 15+ for early token)
+- your slippage is too small (use 30+ for early token)
 
 * Error with node :
   
- <img src="./assets/wss-error.png">
-  
-Hi all, for now <code>wss://bsc-ws-node.nariox.org:443</code> it won't be able to use again forever. for that you can use private node or build your own node. it more faster than public node.
-there is my recommend for private node : 
+ <img src="./assets/wss-error.png"
+
+ You can use provided node <code>wss://bsc-ws-node.nariox.org:443</code>  or you can use a private node or build your own node. It's faster than public node.
+Recommended node providers for private node : 
   1. https://getblock.io/en/
   2. https://www.quicknode.com/
   3. https://www.ankr.com/ <br>
    
-We also rent a full node with cheapest and also faster speed, you will get installation guide and maintenance for that just for $70/month, you can compare with private node that I recommend. The different full node with private node is, full node build in our own vps, so we can manage the speed and performance. for more info you can contact on discord : <code>countdown#4008</code>
